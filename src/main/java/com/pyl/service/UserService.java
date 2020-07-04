@@ -6,4 +6,5 @@ package com.pyl.service;
  * @Date Created in 2020/7/4
  */
 public interface UserService {
+    void findAll();
 }

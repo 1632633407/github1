@@ -6,4 +6,5 @@ package com.pyl.dao;
  * @Date Created in 2020/7/4
  */
 public interface UserDao {
+    void findAll();
 }
